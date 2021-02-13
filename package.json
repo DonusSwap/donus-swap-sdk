@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/donusswap/donusswap-sdk.git",
+  "repository": "https://github.com/DonusSwap/donusswap-sdk.git",
   "keywords": [
     "donusswap",
     "ethereum"
