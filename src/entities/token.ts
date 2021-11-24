@@ -66,7 +66,8 @@ export const WETH = {
   ),
   [ChainId.BSCTESTNET]: new Token(
     ChainId.BSCTESTNET,
-    '0xDf032Bc4B9dC2782Bb09352007D4C57B75160B15', // Rinkeby
+    '0xc778417e063141139fce010982780140aa0cd5ab', // Rinkeby new
+    // '0xDf032Bc4B9dC2782Bb09352007D4C57B75160B15', // Rinkeby
     // '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
     18,
     'WBNB',
