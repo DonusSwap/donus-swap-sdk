@@ -1,7 +1,7 @@
 {
   "name": "@donusswap-libs/sdk",
   "license": "MIT",
-  "version": "1.0.36",
+  "version": "1.0.37",
   "description": "🛠 An SDK(rinkeby) for building applications on top of donusswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
